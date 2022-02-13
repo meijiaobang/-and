@@ -11,7 +11,7 @@
     "report": "npm run build --report=true"
   },
   "dependencies": {
-    "ajv": "^6.9.1",
+    "ajv": "^6.12.3",
     "axios": "^0.19.2",
     "less": "^3.11.1",
     "less-loader": "^5.0.0",
